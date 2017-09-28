@@ -26,6 +26,8 @@ If you have done these steps， you can skip it
 
 > insmod 8188eu.ko
 
-
+### test
+> ifconfig 
+  you will find wlan0.
 
 ### enjot it!
