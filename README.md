@@ -12,7 +12,7 @@ you must have the kernel headers installed. you can set up local yum ,and instal
 If you have done these steps， you can skip it
 ### download
 
-> git clone 
+> git clone https://github.com/vane93/rtl8188eu.git
 ### Compiling
 
 > cd rtl8818eu/
