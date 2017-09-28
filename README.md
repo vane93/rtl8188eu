@@ -5,7 +5,7 @@ Repository for the stand-alone RTL8188EU driver.
 
 Compiling & Building
 ---------
-### Dependencies
+###1 Dependencies
 To compile the driver, you need set up local yum，and install it by
 
 > $sudo yum install gcc make 
@@ -18,24 +18,24 @@ you must have the kernel headers installed. you can set up local yum ,and instal
 
 If you have done these steps， you can skip it
 
-### Download
+###2 Download
 
 > git clone https://github.com/vane93/rtl8188eu.git
-### Compiling
+###3 Compiling
 
 > cd rtl8818eu/
 
 > make all
 
-### Installing
+###4 Installing
 
 > sudo make install
 
-### import
+###5 import
 
 > insmod 8188eu.ko
 
-### test
+###6 test
 > ifconfig 
 
   you will find wlan0.
