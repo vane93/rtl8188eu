@@ -8,13 +8,13 @@ Compiling & Building
 ### Dependencies
 To compile the driver, you need set up local yum，and install it by
 
-$sudo yum install gcc make 
+> $sudo yum install gcc make 
 
 In addition,
 
 you must have the kernel headers installed. you can set up local yum ,and install it by 
 
-$sudo yum install kernel-headers kernel-devel
+> $sudo yum install kernel-headers kernel-devel
 
 If you have done these steps， you can skip it
 
