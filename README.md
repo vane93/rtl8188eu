@@ -1,8 +1,5 @@
-# 文某人的个人网站：www.muziwen.com 欢迎交流
 
-
-
-rtl8188eu
+rtl8188eu（文某人的个人网站：www.muziwen.com 欢迎交流）
 =========
 
 Repository for the stand-alone RTL8188EU driver.
